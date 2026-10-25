@@ -1,9 +1,9 @@
 {
-    "owner": {
-        "username": "adam-ikari",
-        "email": "adam@moemail.app"
-    },
-    "records": {
-        "TXT": "vc-domain-verify=thor.is-a.dev,2689a297d7e876963b8e"
-    }
+  "owner": {
+    "username": "adam-ikari",
+    "email": "adam@moemail.app"
+  },
+  "records": {
+    "TXT": "vc-domain-verify=thor.is-a.dev,2689a297d7e876963b8e"
+  }
 }
