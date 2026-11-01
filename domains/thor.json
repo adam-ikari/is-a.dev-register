@@ -1,9 +1,11 @@
 {
-    "owner": {
-        "username": "adam-ikari",
-        "email": "adam@moemail.app"
-    },
-    "records": {
-        "A": ["216.198.79.1"]
-    }
+  "owner": {
+    "username": "adam-ikari",
+    "email": "adam@moemail.app"
+  },
+  "records": {
+    "A": [
+      "216.198.79.1"
+    ]
+  }
 }
